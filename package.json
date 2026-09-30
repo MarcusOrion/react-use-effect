@@ -1,0 +1,19 @@
+{
+  "name": "react-use-effect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm --dir react-use-effect dev",
+    "build": "pnpm --dir react-use-effect build",
+    "preview": "pnpm --dir react-use-effect preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "vite": "^8.3.1"
+  }
+}
