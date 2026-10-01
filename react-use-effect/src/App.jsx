@@ -1,9 +1,9 @@
-import BlockNoteApp from "./components/BlockNoteApp";
+import ThemeToggle from "./components/ThemeToggle";
 
 function App() {
   return (
     <>
-      <BlockNoteApp />
+      <ThemeToggle />
     </>
   );
 }
