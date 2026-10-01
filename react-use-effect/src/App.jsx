@@ -1,9 +1,9 @@
-import ThemeToggle from "./components/ThemeToggle";
+import WindowSizeTracker from "./components/WindowSizeTracker";
 
 function App() {
   return (
     <>
-      <ThemeToggle />
+      <WindowSizeTracker />
     </>
   );
 }
